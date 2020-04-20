@@ -1,6 +1,3 @@
-# Parkinglot_With_SQL
-A Parkinglot project with SQL instead of serilizing
-Using sql commands and ado.net. 
 
 # Adding 
 Create a new vehicle object, give it a type and a regnr. 
